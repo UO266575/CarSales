@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CarSalesApp</string>
+    <string name="loginButton">Login</string>
+    <string name="emailHint">Enter Email</string>
+    <string name="passwordHint">Enter Password</string>
+    <string name="empty">Enter information</string>
+    <string name="buttonLogin">Login</string>
+    <string name="logIn_btn">Log In</string>
+    <string name="toregister_btn"><u>I don\'t have an account...</u></string>
+
+    <string name="register_btn">Register</string>
+    <string name="tologin_btn"><u>Sign in instead</u></string>
+    <string name="failLogin">Incorrect user name or password</string>
+    <string name="passNotMatch">Passwords not matching</string>
+    <string name="Add">addCarBtn</string>
+    <string name="menu_title">add</string>
+    <string name="signout">Signout</string>
+
+    <string name="loadMoreVehicles_btn">Load more vehicles</string>
+    <string name="actionMyPosts">My Posts</string>
+</resources>
